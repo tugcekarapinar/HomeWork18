@@ -1,0 +1,18 @@
+{
+  "id": 1412,
+  "category": {
+    "id": 2023,
+    "name": "wolf"
+  },
+  "name": "demo",
+  "photoUrls": [
+    "instagram"
+  ],
+  "tags": [
+    {
+      "id": 8,
+      "name": "erkek"
+    }
+  ],
+  "status": "available"
+}
